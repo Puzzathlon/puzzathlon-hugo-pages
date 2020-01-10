@@ -9,6 +9,11 @@ contentTypeName = "content/problems"
   identifier = "problems"
   name = "Problems"
   url = "/problems"
+  
+[[menu.main]]
+  identifier = "guidelines"
+  name = "Guidelines"
+  url = "/guidelines"
 
 [params]
   # Date Format
