@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puzzathlon</title>
+    <link>https://puzzathlon.github.io/</link>
+    <description>Recent content on Puzzathlon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2020 10:40:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://puzzathlon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Problem 1</title>
+      <link>https://puzzathlon.github.io/problems/problem-1/</link>
+      <pubDate>Fri, 10 Jan 2020 10:40:41 +0000</pubDate>
+      
+      <guid>https://puzzathlon.github.io/problems/problem-1/</guid>
+      <description> Given an arbitrary map consisting of a number of connected regions, find the shortest sequence of folds which ensures that every region overlaps every other region.
+Solution discussion on 13/3/2020 </description>
+    </item>
+    
+  </channel>
+</rss>
