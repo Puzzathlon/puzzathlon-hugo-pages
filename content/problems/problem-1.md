@@ -31,6 +31,14 @@ $$
 
 * **overlap** - two regions $R_i, R_j$ overlap iff they share a point, i.e. $R_i \cap R_j \neq \emptyset$
 
+## More Information
+
+Some (possibly) simpler variants of the problem to consider:
+
+* **Single point regions**
+* **Convex regions**
+* **Simpler folds** $L : y = mx$ results in $v' = Av$, a linear transformation.
+
 ### Deadline 13/03/2020
 ### Colloquium 20/03/2020
 
