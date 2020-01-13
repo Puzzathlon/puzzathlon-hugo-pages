@@ -30,7 +30,6 @@ A = \frac{1}{1 + m^2} \begin{bmatrix}
 \end{bmatrix} \\\ \\\ 
 B = \frac{1}{1 + m^2}  \begin{bmatrix} -2mc \\\ \\\ 2c  \end{bmatrix}
 $$
-and 
 
 <!-- http://www.sdmath.com/math/geometry/reflection_across_line.html#any). -->
 
