@@ -26,7 +26,7 @@ Given the difficult nature of the problems, we encourage competitors to first at
 
 # Submission
 
-Solutions should be submitted by the associated deadline. Next deadline: ---.  Any solution that is not submitted by this time will not be considered for a prize, however it may still be discussed at the end of term colloquium.
+Solutions should be submitted by the associated deadline. Next deadline: ---.  Any solution that is not submitted by this time will not be considered for a prize, however it may still be discussed at termly colloquium.
 
 ## Q: How do I submit a solution?
 
@@ -36,7 +36,7 @@ Solutions should be submitted by the associated deadline. Next deadline: ---.  A
 
 # Evaluation
 
-Each submission will be evaluated by our panel, only the best solutions will be considered for a prize
+Each submission will be evaluated by our panel, only the best solutions will be considered for a prize.
 
 ## Q: What criteria are used for evaluation?
 

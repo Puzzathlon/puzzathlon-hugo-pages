@@ -1,7 +1,7 @@
 {{ define "main" }}
     <main aria-role="main">
         <div>
-            <h1>{{ .Site.Title }}</h1>
+            <h1>{{ .Site.Params.title }}</h1>
 
             {{- with .Site.Params.homeSubtitle }}
                 <p>{{.}}</p>

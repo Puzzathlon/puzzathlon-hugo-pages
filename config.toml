@@ -8,9 +8,7 @@ Copyright = "puzzathlon"
 
 [[Author]]
   name = "Benedict Wilkins"
-
-
-title = "Puzzathlon"
+  
 contentTypeName = "content/problems"
 
 [[menu.main]]
@@ -30,6 +28,7 @@ contentTypeName = "content/problems"
   dateformNum = "02/01/2006"
   
   # Page Aesthetics
+  title = "Puzzathlon"
   homeSubtitle = "In Association with RHUL Computing Society"
   disableReadOtherPosts = true
   defaultTheme = "dark"
